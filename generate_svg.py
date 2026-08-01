@@ -21,18 +21,18 @@ import requests
 # ---------------------------------------------------------------------------
 CONFIG = {
     "username": os.environ.get("GH_USERNAME", "heyyoimsyaziq"),
-    "os": "Ubuntu 24.04.1 LTS",
-    "host": "Your City, Your Country",
-    "birthdate": "2003-01-01",  # YYYY-MM-DD, used to compute "Uptime" (age)
+    "os": "Ubuntu 24.04.1 LTS on Windows 10",
+    "host": "Ranau, Sabah",
+    "birthdate": "2002-06-03",  # YYYY-MM-DD, used to compute "Uptime" (age)
     "role": "Student / Junior Developer",
     "ide": "VSCode",
-    "languages_programming": "Python, JavaScript",
+    "languages_programming": "Python, JavaScript, C/C++",
     "languages_computer": "HTML, CSS, JSON",
-    "languages_real": "English, Malay",
-    "hobbies": "Gaming, Reading",
-    "interests": "Software Engineering, AI",
-    "email": "you@example.com",
-    "linkedin": "your-linkedin-handle",
+    "languages_real": "English, Malay, Mandarin",
+    "hobbies": "Gaming, Reading, Basketball",
+    "interests": "Software Engineering, AI, Electronics",
+    "email": "syazwanhaziq445@gmail.com",
+    "linkedin": "www.linkedin.com/in/syazwan-haziq-903a76370",
 }
 
 GITHUB_API = "https://api.github.com"
