@@ -11,7 +11,7 @@
 <text x="220" y="40" fill="#24292f" font-weight="700">heyyoimsyaziq@github</text>
 <text x="220" y="62" fill="#57606a">----------------------------------------------</text>
 <text x="220" y="84"><tspan fill="#0969da" font-weight="600">OS</tspan><tspan fill="#57606a">: .......................... </tspan><tspan fill="#24292f">Ubuntu 24.04.1 LTS on Windows 10</tspan></text>
-<text x="220" y="106"><tspan fill="#0969da" font-weight="600">Uptime</tspan><tspan fill="#57606a">: ...................... </tspan><tspan fill="#24292f">24 years, 1 months, 29 days</tspan></text>
+<text x="220" y="106"><tspan fill="#0969da" font-weight="600">Uptime</tspan><tspan fill="#57606a">: ...................... </tspan><tspan fill="#24292f">24 years, 2 months, 0 days</tspan></text>
 <text x="220" y="128"><tspan fill="#0969da" font-weight="600">Host</tspan><tspan fill="#57606a">: ........................ </tspan><tspan fill="#24292f">Ranau, Sabah</tspan></text>
 <text x="220" y="150"><tspan fill="#0969da" font-weight="600">Role</tspan><tspan fill="#57606a">: ........................ </tspan><tspan fill="#24292f">Student / Junior Developer</tspan></text>
 <text x="220" y="172"><tspan fill="#0969da" font-weight="600">IDE</tspan><tspan fill="#57606a">: ......................... </tspan><tspan fill="#24292f">VSCode</tspan></text>
@@ -28,6 +28,6 @@
 <text x="220" y="458"><tspan fill="#0969da" font-weight="600">Stars</tspan><tspan fill="#57606a">: ....................... </tspan><tspan fill="#24292f">0</tspan></text>
 <text x="220" y="480"><tspan fill="#0969da" font-weight="600">Commits</tspan><tspan fill="#57606a">: ..................... </tspan><tspan fill="#24292f">6</tspan></text>
 <text x="220" y="502"><tspan fill="#0969da" font-weight="600">Followers</tspan><tspan fill="#57606a">: ................... </tspan><tspan fill="#24292f">0</tspan></text>
-<text x="220" y="524"><tspan fill="#0969da" font-weight="600">Lines of Code</tspan><tspan fill="#57606a">: ............... </tspan><tspan fill="#24292f">0 (+0 / -0)</tspan></text>
+<text x="220" y="524"><tspan fill="#0969da" font-weight="600">Lines of Code</tspan><tspan fill="#57606a">: ............... </tspan><tspan fill="#24292f">651 (+602 / -49)</tspan></text>
 </g>
 </svg>
